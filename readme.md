@@ -50,11 +50,6 @@ This project notebook leverages machine learning models to classify individuals 
 
     - Evaluation metrics such as accuracy and AUC are used.
     - ROC curve analysis to assess the model performance.
-    
-
-5. Feature Importance:
-
-    - 
 
 ## Requirements
 Python (>= 3.7)
